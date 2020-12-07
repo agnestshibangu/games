@@ -1,0 +1,70 @@
+.title {
+	padding-top: 40px;
+	color:rgb(0, 0, 0);
+	text-align: center;
+}
+
+.title1 {
+	padding-top: 10px;
+	text-align: center;
+}
+
+.btn {
+	
+	display: block;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(93, 118, 231);
+	width : 100%;
+	height: 100px;
+}
+
+
+.button-group {
+	padding-top: 50px;
+
+}
+
+.footer  { 
+	margin-left: auto;
+	padding-left: 20px;
+	margin-right: auto;
+}
+
+.navbar-item {
+	padding-left: 20px;
+}
+
+.navbar-item-group {
+	padding-left: 700px;
+}
+
+.form-group1 {
+	padding-top: 50px;
+	padding-left: 30px;
+	width: 400px;
+}
+
+.form-group2 {
+	padding-top: 50px;
+	padding-left: 20px;
+	width: 400px;
+}
+
+.left {
+	float: left;
+	
+}
+
+.right {
+	float: right;
+}
+
+.btn-continuerachats {
+	height: 50px;
+	width: 100px;
+	
+}
+
